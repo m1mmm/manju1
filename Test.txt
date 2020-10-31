@@ -1,1 +1,2 @@
-Hello, welcome to git tutorial.we will learn pull push git add
+Hello, welcome to git tutorial.we will learn pull push git add.
+reverse
